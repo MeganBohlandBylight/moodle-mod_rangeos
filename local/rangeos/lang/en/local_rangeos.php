@@ -100,6 +100,7 @@ $string['allclasses'] = 'All classes';
 $string['filterbyclass'] = 'Filter by class';
 $string['backtoactivity'] = 'Back to activity';
 $string['noaus'] = 'No AUs found for this activity.';
+$string['page'] = 'Page: ';
 
 // Observer / notifications.
 $string['unmappedaus_subject'] = 'Unmapped AUs detected after deployment';
